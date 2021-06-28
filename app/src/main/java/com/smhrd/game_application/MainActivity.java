@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Log.v("hhd","111");
         Log.v("asd","12");
         Log.v("kkk","121");
+        Log.v("흰둥이","흰둥이");
     }
 }
